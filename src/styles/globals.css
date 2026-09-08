@@ -1,0 +1,44 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+
+/* Global Styles */
+.bg-gradient-dark {
+  background: linear-gradient(135deg, #05070A 0%, #07131A 100%);
+}
+
+.border-aqua-light {
+  border-color: rgba(0, 217, 255, 0.2);
+}
+
+.text-gradient {
+  background: linear-gradient(135deg, #00D9FF 0%, #00E5FF 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Section Styles */
+.section-container {
+  @apply relative py-20 px-4 md:py-32 md:px-8;
+}
+
+.section-title {
+  @apply text-4xl md:text-6xl lg:text-7xl font-bold leading-tight tracking-tight;
+}
+
+.section-subtitle {
+  @apply text-lg md:text-xl text-gray-300 max-w-2xl;
+}
+
+/* Button Styles */
+.btn-primary {
+  @apply px-6 md:px-8 py-3 md:py-4 bg-aqua text-dark-bg font-bold rounded-lg button-hover uppercase text-sm md:text-base tracking-wider;
+}
+
+.btn-secondary {
+  @apply px-6 md:px-8 py-3 md:py-4 border-2 border-aqua text-aqua font-bold rounded-lg button-hover uppercase text-sm md:text-base tracking-wider;
+}
+
+.btn-secondary:hover {
+  @apply bg-aqua/10;
+}
