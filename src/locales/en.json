@@ -1,0 +1,175 @@
+{
+  "nav": {
+    "home": "HOME",
+    "about": "ABOUT",
+    "products": "PRODUCTS",
+    "services": "SERVICES",
+    "contact": "CONTACT",
+    "orderNow": "ORDER"
+  },
+  "hero": {
+    "headline1": "PURE WATER.",
+    "headline2": "PURE LIFE.",
+    "subtitle": "AQUA LIFE — the foundation of your life. Premium quality drinking water and reliable delivery service.",
+    "cta1": "DISCOVER AQUA LIFE",
+    "cta2": "ORDER WATER"
+  },
+  "about": {
+    "title": "WATER IS MORE THAN A NECESSITY.",
+    "subtitle": "IT'S THE FOUNDATION OF LIFE.",
+    "description": "Aqua Life is not just water — it's an investment in the health of you and your family. Highest standards of purity, cutting-edge technology, and reliability are our principles.",
+    "stats": [
+      {
+        "number": "10+",
+        "label": "Years of Experience"
+      },
+      {
+        "number": "50K+",
+        "label": "Happy Customers"
+      },
+      {
+        "number": "99.9%",
+        "label": "Quality Standard"
+      },
+      {
+        "number": "24/7",
+        "label": "Service"
+      }
+    ]
+  },
+  "products": {
+    "title": "AQUA LIFE PRODUCTS",
+    "subtitle": "Every drop is purity and freshness.",
+    "viewProduct": "VIEW PRODUCT",
+    "order": "ORDER",
+    "products": [
+      {
+        "name": "AQUA LIFE 0.5L",
+        "size": "500 ml",
+        "description": "Compact size — perfect for travel and everyday use.",
+        "price": "500 ₸"
+      },
+      {
+        "name": "AQUA LIFE 1L",
+        "size": "1 liter",
+        "description": "Convenient size — ideal for family or office.",
+        "price": "900 ₸"
+      },
+      {
+        "name": "AQUA LIFE 5L",
+        "size": "5 liters",
+        "description": "Large volume — economical choice for home use.",
+        "price": "3500 ₸"
+      },
+      {
+        "name": "AQUA LIFE 19L",
+        "size": "19 liters",
+        "description": "Professional volume — for offices, restaurants, and businesses.",
+        "price": "12000 ₸"
+      }
+    ]
+  },
+  "why": {
+    "title": "WHY AQUA LIFE?",
+    "features": [
+      {
+        "title": "PURE QUALITY",
+        "description": "Modern technology and rigorous quality control."
+      },
+      {
+        "title": "FAST DELIVERY",
+        "description": "Reliable and swift water delivery to your doorstep."
+      },
+      {
+        "title": "100% TRUST",
+        "description": "Quality you can rely on every single day."
+      },
+      {
+        "title": "ECO-FRIENDLY",
+        "description": "Responsible approach to packaging and the environment."
+      }
+    ]
+  },
+  "process": {
+    "title": "FROM SOURCE TO YOU",
+    "steps": [
+      {
+        "number": "01",
+        "title": "QUALITY CONTROL",
+        "description": "Water quality inspection at every stage."
+      },
+      {
+        "number": "02",
+        "title": "PURIFICATION",
+        "description": "Advanced purification and filtration process."
+      },
+      {
+        "number": "03",
+        "title": "PACKAGING",
+        "description": "Safe and hygienic packaging standards."
+      },
+      {
+        "number": "04",
+        "title": "DELIVERY",
+        "description": "Fast delivery straight to your location."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "WHAT OUR CUSTOMERS SAY",
+    "testimonials": [
+      {
+        "name": "Ainur Satubai",
+        "review": "AQUA Life water is absolutely outstanding! The whole family is very satisfied. We never switch to other brands.",
+        "rating": 5
+      },
+      {
+        "name": "Marat Kisimov",
+        "review": "Perfect solution for our office. Delivery is always on time, water quality is exceptional. Highly recommended!",
+        "rating": 5
+      },
+      {
+        "name": "Gulzar Nurbaev",
+        "review": "Our kids love it. Best investment in health. AQUA Life is definitely the right choice!",
+        "rating": 5
+      }
+    ]
+  },
+  "order": {
+    "title": "ORDER PURE WATER",
+    "form": {
+      "name": "Your Name",
+      "phone": "Phone Number",
+      "product": "Product",
+      "quantity": "Quantity",
+      "address": "Address",
+      "message": "Message",
+      "submit": "PLACE ORDER",
+      "success": "THANK YOU! YOUR ORDER HAS BEEN RECEIVED."
+    }
+  },
+  "contact": {
+    "title": "CONTACT US",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "hours": "Working Hours",
+    "phoneValue": "+7 (700) 123-45-67",
+    "emailValue": "info@aqualife.kz",
+    "addressValue": "Nur-Sultan, Kazakhstan",
+    "hoursValue": "24/7 Service Available"
+  },
+  "cta": {
+    "headline1": "MAKE WATER",
+    "headline2": "PART OF YOUR LIFE.",
+    "button": "ORDER NOW"
+  },
+  "footer": {
+    "slogan": "Pure water. Pure life.",
+    "navigation": "Navigation",
+    "products": "Products",
+    "services": "Services",
+    "contact": "Contact",
+    "copyright": "© 2026 AQUA LIFE. ALL RIGHTS RESERVED."
+  }
+}
